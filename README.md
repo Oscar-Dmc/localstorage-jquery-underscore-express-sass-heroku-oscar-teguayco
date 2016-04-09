@@ -17,7 +17,7 @@ Durante el desarrollo de esta práctica se ha hecho uso de:
 
 * [Repositorio CSV](https://github.com/ULL-ESIT-GRADOII-PL/localstorage-jquery-underscore-express-sass-heroku-oscar-teguayco)
 
-**Repositorio GitHub(fork)**
+**Repositorio GitHub (fork)**
 
 * [Repositorio CSV](https://github.com/Oscar-Dmc/localstorage-jquery-underscore-express-sass-heroku-oscar-teguayco)
 
