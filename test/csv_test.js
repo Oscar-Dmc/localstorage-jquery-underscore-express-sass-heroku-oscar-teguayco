@@ -1,6 +1,7 @@
-var expect = chai.expect;
+var expect = chai.expect
 
 describe("CSV", function() {
+  describe("Función calculate()", function() {
     it ("Debería capturar números no entrecomillados", function() {
       var input = '1, 2, 3';
       var r = calculate(input);
@@ -43,4 +44,5 @@ describe("CSV", function() {
       expect(r[0].value[0]).to.equal("9.375");
       expect(r[0].value[1]).to.equal("euros");
     });
+  });
 });
