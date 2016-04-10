@@ -25,6 +25,10 @@ Durante el desarrollo de esta práctica se ha hecho uso de:
 
 * [Despliegue](http://ull-esit-gradoii-pl.github.io/localstorage-jquery-underscore-express-sass-heroku-oscar-teguayco/)
 
+**Despliegue en heroku**
+
+* [Heroku](https://csvoscarteguayco.herokuapp.com/)
+
 **Páginas de los desarrolladores**
 
 * [Web Teguayco Gutiérrez González](http://alu0100825503.github.io/)
